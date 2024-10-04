@@ -45,3 +45,20 @@ function ganjil (arr){
 }
 
 console.log(ganjil([1, 2, 3, 4, 5, 6]));
+
+
+// Soal 3: Hitung Jumlah Kata
+// Deskripsi: Buatlah sebuah fungsi yang menerima sebuah string dan menghitung jumlah kata di dalamnya. Selain itu, tampilkan kata yang paling sering muncul beserta jumlah kemunculannya.
+// Contoh Input:
+// plaintext
+
+
+// "hello world hello everyone"
+// Contoh Output:
+// plaintext
+
+
+// Jumlah kata: 5
+// Kata terbanyak: "hello" (2 kali)
+
+
